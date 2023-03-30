@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first HTML project in which I will build a simple page that contains recipes for three meals using the knowledge and skills that I gained going through the Odin Project curriculum. I will be using simple elements in HTML like paragraph, header, ordered and unordered list , creating hyperlinks and importing images into the page.
