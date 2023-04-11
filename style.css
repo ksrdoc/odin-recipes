@@ -1,6 +1,22 @@
 h1 {
     color: peru
-    ;font-size: large
+    ;font-size: 32px
     ;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    ;text-shadow: 0cqh;
+    ;text-shadow: 0cqh
+    ;text-align: center;
+}
+
+body {
+    color: black
+    ;font-size:  22px
+    ;font-family: 'Times New Roman', Times, serif
+    ;font-style: italic;
+}
+
+
+.list {
+    color: brown
+    ;font-size: large
+    ;font-family: 'Times New Roman', Times, serif
+    ;text-align: center;
 }
